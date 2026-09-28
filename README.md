@@ -72,4 +72,4 @@ Proyecto desarrollado como parte del **Técnico Superior en Administración de S
 
 ## Autor
 
-**Adil Bentaleb** · [LinkedIn](https://linkedin.com/in/adil-bentaleb-83472a209) · [Portfolio](https://bentaleb-adil.pages.dev/) · [GitHub](https://github.com/bentalebadil158-stack)
+**Adil Bentaleb** · [LinkedIn](https://linkedin.com/in/adil-bentaleb-83472a209) · [Portfolio](https://adil-bentaleb.pages.dev/) · [GitHub](https://github.com/bentalebadil158-stack)
